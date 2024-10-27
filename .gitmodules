@@ -1,6 +1,6 @@
 [submodule "frontend"]
 	path = frontend
-	url = https://github.com/Rafixese/CatBlog.git
+	url = https://github.com/Rafixese/CatBlogFrontend.git
 [submodule "backend"]
 	path = backend
-	url = https://github.com/Rafixese/CatBlog.git
+	url = https://github.com/Rafixese/CatBlogBackend.git
